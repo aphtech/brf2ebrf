@@ -2,6 +2,10 @@
 
 Library for converting BRF to eBraille.
 
+## Important Notice: Repository Retirement
+
+The brf2ebrl project has been merged into the [Convert2EBRL project](https://github.com/aphtech/Convert2EBRL). No more changes will be committed here, please use Convert2EBRL to get future updates.
+
 ## Status of eBraille support
 
 As there is no published version of the eBraille standard, currently this tool is
